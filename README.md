@@ -18,6 +18,9 @@ To prevent misuse, the full automation logic is kept **private**. This public re
 - Architecture/design flow
 
 If you're an employer or reviewer and would like access, feel free to reach out!
+
+**Request access of Colab File**
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1euTtrH8rygRNAJlmgqlUtZlwp_9-ocF4?usp=sharing)
 
 
